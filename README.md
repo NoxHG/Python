@@ -19,9 +19,9 @@ Este repositório é o meu espaço de aprendizado contínuo em Python. Comecei n
 ### Básico
 - [x] Variáveis, tipos de dados e operações
 - [x] Estruturas de controle (if, for, while)
-- [] Funções e módulos
-- [] Tratamento de exceções
-- [] Manipulação de arquivos
+- [ ] Funções e módulos
+- [ ] Tratamento de exceções
+- [ ] Manipulação de arquivos
 
 ### Intermediário
 - [ ] Programação Orientada a Objetos (POO)
