@@ -1,0 +1,31 @@
+## Aulas Em Ordem
+- [x] Aula 1 - Introdução a Disciplina
+- [x] Aula 2 - Compute It
+- [x] Aula 3 - Print
+- [x] Aula 4 - Variáveis e operações aritiméticas
+- [x] Aula 5 - Funçõe Matemáticas em python [Introdução a Biblioteca Math]
+- [x] Aula 6 - Operadores Lógicos e Racionais
+- [x] Aula 7 - Estrutura de Seleção
+- [x] Aula 8 - Depuração
+- [x] Aula 9 - Programaçã com Dojo
+- [x] Aula 10 - While [Acumular/Contar]
+- [x] Aula 11 - For
+- [ ] Aula 12 - Funções
+- [ ] Aula 13 - [...]
+- [ ] Aula 14 - [...]
+- [ ] Aula 15 - [...]
+- [ ] Aula 16 - [...]
+- [ ] Aula 17 - [...]
+- [ ] Aula 18 - [...]
+- [ ] Aula 19 - [...]
+
+## Listas de Exercícios
+- [x] Variáveis de operações aritiméticas
+- [x] Math
+- [x] Operadores Lógicos e Racionáis
+- [x] Estrutura de Seleção
+- [x] Estrutura de Repetição
+- [ ] Estrutura de Acumulação
+- [ ] For
+- [ ] [...]
+- [ ] [...]
