@@ -2,7 +2,6 @@
 # 🐍 Meus Estudos de Python
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Repositório dedicado aos meus estudos e evolução em Python. Aqui registro todo o meu aprendizado, exercícios, projetos e anotações.
 
